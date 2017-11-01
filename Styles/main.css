@@ -1,0 +1,50 @@
+body{
+background-size: width: "100%" height: "100%";
+background-color: lightgray
+}
+
+h1{
+
+color:teal;
+text-align: center;
+font-size:45px;
+font-family: 'Permanent Marker';
+}
+
+p{
+padding:50px;
+text-align:left;
+font-size:20px;
+font-family: 'Arapey', serif;
+}
+
+img{
+padding:50px;
+}
+
+li{
+display: inline;
+margin-right: 20px;
+}
+
+a:link {
+	text-decoration: none;
+	color: white;
+}
+
+a:visited {
+	color: blue;
+}
+
+a:hover {
+	test-decoration: underlined;
+	color: deepskyblue;
+}
+
+a:active {
+	color: darkcyan
+}
+
+nav {
+text-align: center;
+}
