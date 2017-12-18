@@ -1,0 +1,49 @@
+body{
+background-size: width: "100%" height: "100%";
+background-color: lightgray
+}
+ 
+h1{
+
+color:teal;
+text-align: center;
+font-size:65px;
+font-family: 'Permanent Marker';
+}
+
+p{
+padding:10px;
+text-align:left;
+font-size:25px;
+font-family: 'Arvo', serif;
+}
+
+
+li{
+display: inline;
+margin-right: 35px;
+}
+
+a:link {
+	text-decoration: none;
+	color: white;
+	font-family: 'Arvo', serif;
+	font-size: 25px;
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	test-decoration: underlined;
+	color: deepskyblue;
+}
+
+a:active {
+	color: darkcyan
+}
+
+nav {
+text-align: center;
+}
