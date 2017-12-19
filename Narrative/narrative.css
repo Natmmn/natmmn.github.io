@@ -36,7 +36,7 @@ a:visited {
 }
 
 a:hover {
-	test-decoration: underlined;
+	text-decoration: underlined;
 	color: deepskyblue;
 }
 
